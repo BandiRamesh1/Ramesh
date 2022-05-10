@@ -12,7 +12,11 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1650791440,,"wq!"
+|2,0,1652158359,,"wq!"
+:q!
+|2,0,1651471277,,"q!"
+:Q!
+|2,0,1650951324,,"Q!"
 
 # Search String History (newest to oldest):
 
@@ -23,18 +27,306 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""-	CHAR	0
+	i
+|3,1,36,0,1,0,1651469035,"i"
 
 # File marks:
-'0  3  103  ~/Ramesh/README.md
-|4,48,3,103,1650791440,"~/Ramesh/README.md"
+'0  2  42  ~/ramesh/testfile
+|4,48,2,42,1652158359,"~/ramesh/testfile"
+'1  2  44  /tmp/ramesh
+|4,49,2,44,1651577480,"/tmp/ramesh"
+'2  75  8  ~/maven/sampleproject/pom.xml
+|4,50,75,8,1651471277,"~/maven/sampleproject/pom.xml"
+'3  72  9  ~/maven/sampleproject/pom.xml
+|4,51,72,9,1651471266,"~/maven/sampleproject/pom.xml"
+'4  72  9  ~/maven/sampleproject/pom.xml
+|4,52,72,9,1651471266,"~/maven/sampleproject/pom.xml"
+'5  11  77  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,53,11,77,1651470553,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+'6  11  77  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,54,11,77,1651470465,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+'7  11  71  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,55,11,71,1651469042,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+'8  11  71  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,56,11,71,1651469042,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+'9  11  74  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,57,11,74,1651468927,"~/maven/sampleproject/src/main/java/com/devops/App.java"
 
 # Jumplist (newest first):
--'  3  103  ~/Ramesh/README.md
-|4,39,3,103,1650791440,"~/Ramesh/README.md"
--'  1  0  ~/Ramesh/README.md
-|4,39,1,0,1650791333,"~/Ramesh/README.md"
+-'  2  42  ~/ramesh/testfile
+|4,39,2,42,1652158359,"~/ramesh/testfile"
+-'  1  0  ~/ramesh/testfile
+|4,39,1,0,1652158293,"~/ramesh/testfile"
+-'  2  44  /tmp/ramesh
+|4,39,2,44,1651577480,"/tmp/ramesh"
+-'  2  44  /tmp/ramesh
+|4,39,2,44,1651577480,"/tmp/ramesh"
+-'  1  0  /tmp/ramesh
+|4,39,1,0,1651577411,"/tmp/ramesh"
+-'  1  0  /tmp/ramesh
+|4,39,1,0,1651577411,"/tmp/ramesh"
+-'  75  8  ~/maven/sampleproject/pom.xml
+|4,39,75,8,1651471277,"~/maven/sampleproject/pom.xml"
+-'  75  8  ~/maven/sampleproject/pom.xml
+|4,39,75,8,1651471277,"~/maven/sampleproject/pom.xml"
+-'  75  8  ~/maven/sampleproject/pom.xml
+|4,39,75,8,1651471277,"~/maven/sampleproject/pom.xml"
+-'  75  8  ~/maven/sampleproject/pom.xml
+|4,39,75,8,1651471277,"~/maven/sampleproject/pom.xml"
+-'  72  9  ~/maven/sampleproject/pom.xml
+|4,39,72,9,1651471270,"~/maven/sampleproject/pom.xml"
+-'  72  9  ~/maven/sampleproject/pom.xml
+|4,39,72,9,1651471270,"~/maven/sampleproject/pom.xml"
+-'  72  9  ~/maven/sampleproject/pom.xml
+|4,39,72,9,1651471270,"~/maven/sampleproject/pom.xml"
+-'  72  9  ~/maven/sampleproject/pom.xml
+|4,39,72,9,1651471270,"~/maven/sampleproject/pom.xml"
+-'  72  9  ~/maven/sampleproject/pom.xml
+|4,39,72,9,1651471266,"~/maven/sampleproject/pom.xml"
+-'  72  9  ~/maven/sampleproject/pom.xml
+|4,39,72,9,1651471266,"~/maven/sampleproject/pom.xml"
+-'  72  9  ~/maven/sampleproject/pom.xml
+|4,39,72,9,1651471266,"~/maven/sampleproject/pom.xml"
+-'  72  9  ~/maven/sampleproject/pom.xml
+|4,39,72,9,1651471266,"~/maven/sampleproject/pom.xml"
+-'  1  0  ~/maven/sampleproject/pom.xml
+|4,39,1,0,1651471043,"~/maven/sampleproject/pom.xml"
+-'  1  0  ~/maven/sampleproject/pom.xml
+|4,39,1,0,1651471043,"~/maven/sampleproject/pom.xml"
+-'  1  0  ~/maven/sampleproject/pom.xml
+|4,39,1,0,1651471043,"~/maven/sampleproject/pom.xml"
+-'  1  0  ~/maven/sampleproject/pom.xml
+|4,39,1,0,1651471043,"~/maven/sampleproject/pom.xml"
+-'  1  0  ~/maven/sampleproject/pom.xml
+|4,39,1,0,1651471043,"~/maven/sampleproject/pom.xml"
+-'  1  0  ~/maven/sampleproject/pom.xml
+|4,39,1,0,1651471043,"~/maven/sampleproject/pom.xml"
+-'  1  0  ~/maven/sampleproject/pom.xml
+|4,39,1,0,1651471043,"~/maven/sampleproject/pom.xml"
+-'  1  0  ~/maven/sampleproject/pom.xml
+|4,39,1,0,1651471043,"~/maven/sampleproject/pom.xml"
+-'  11  77  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,77,1651470553,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  77  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,77,1651470553,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  77  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,77,1651470553,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  77  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,77,1651470553,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  77  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,77,1651470553,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  77  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,77,1651470553,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  77  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,77,1651470553,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  77  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,77,1651470553,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  77  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,77,1651470553,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  77  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,77,1651470553,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  77  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,77,1651470553,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  77  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,77,1651470553,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  77  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,77,1651470553,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  77  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,77,1651470553,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  77  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,77,1651470553,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  77  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,77,1651470553,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  77  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,77,1651470465,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  77  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,77,1651470465,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  77  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,77,1651470465,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  77  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,77,1651470465,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  77  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,77,1651470465,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  77  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,77,1651470465,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  77  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,77,1651470465,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  77  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,77,1651470465,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  77  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,77,1651470465,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  77  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,77,1651470465,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  77  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,77,1651470465,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  77  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,77,1651470465,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  77  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,77,1651470465,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  77  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,77,1651470465,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  77  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,77,1651470465,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  77  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,77,1651470465,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  71  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,71,1651469042,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  71  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,71,1651469042,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  71  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,71,1651469042,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  71  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,71,1651469042,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  71  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,71,1651469042,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  71  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,71,1651469042,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  71  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,71,1651469042,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  71  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,71,1651469042,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  71  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,71,1651469042,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  71  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,71,1651469042,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  71  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,71,1651469042,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  71  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,71,1651469042,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  71  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,71,1651469042,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  71  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,71,1651469042,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  71  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,71,1651469042,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  71  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,71,1651469042,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  74  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,74,1651468927,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  74  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,74,1651468927,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  74  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,74,1651468927,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  74  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,74,1651468927,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  74  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,74,1651468927,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  74  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,74,1651468927,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  74  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,74,1651468927,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  74  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,74,1651468927,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  74  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,74,1651468927,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  74  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,74,1651468927,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  74  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,74,1651468927,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  74  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,74,1651468927,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  74  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,74,1651468927,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  74  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,74,1651468927,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  74  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,74,1651468927,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  11  74  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,11,74,1651468927,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  1  0  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,1,0,1651468843,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  1  0  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,1,0,1651468843,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  1  0  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,1,0,1651468843,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  1  0  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,1,0,1651468843,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  1  0  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,1,0,1651468843,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  1  0  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,1,0,1651468843,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  1  0  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,1,0,1651468843,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  1  0  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,1,0,1651468843,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  1  0  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,1,0,1651468843,"~/maven/sampleproject/src/main/java/com/devops/App.java"
+-'  1  0  ~/maven/sampleproject/src/main/java/com/devops/App.java
+|4,39,1,0,1651468843,"~/maven/sampleproject/src/main/java/com/devops/App.java"
 
 # History of marks within files (newest to oldest):
+
+> ~/ramesh/testfile
+	*	1652158356	0
+	"	2	42
+	^	2	43
+	.	2	42
+	+	2	42
+
+> /tmp/ramesh
+	*	1651577474	0
+	"	2	44
+	^	2	45
+	.	2	44
+	+	1	50
+	+	2	44
+
+> ~/maven/sampleproject/pom.xml
+	*	1651471273	0
+	"	75	8
+	^	75	9
+
+> ~/maven/sampleproject/src/main/java/com/devops/App.java
+	*	1651470544	0
+	"	11	77
+	^	11	78
+	.	11	77
+	+	11	74
+	+	11	77
+
+> ~/maven/sampleproject/src/main/com.devops/java.App
+	*	1651468726	0
+	"	1	0
+	^	1	0
+
+> ~/maven/sampleproject/target
+	*	1651468664	0
+	"	1	0
+	^	1	0
+
+> ~/maven/sampleproject/src/test/java/com/devops/AppTest.java
+	*	1651212936	0
+	"	1	0
+	^	1	0
+
+> ~/.bashrc
+	*	1651124418	0
+	"	14	54
+	^	14	55
+	.	14	55
+	+	1	7
+	+	12	11
+	+	12	0
+	+	13	0
+	+	14	55
+
+> ~/bashrc
+	*	1651034589	0
+	"	1	0
+	^	1	0
+
+> ~/maven/bashrc
+	*	1651034283	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+
+> ~/maven/.bashrc
+	*	1651034217	0
+	"	1	0
+	^	1	0
 
 > ~/Ramesh/README.md
 	*	1650791431	0

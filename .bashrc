@@ -1,4 +1,4 @@
-# .bashrc
+# .bashi:rc
 
 # Source global definitions
 if [ -f /etc/bashrc ]; then
@@ -9,3 +9,6 @@ fi
 # export SYSTEMD_PAGER=
 
 # User specific aliases and functions
+
+
+export PATH=$PATH:/home/ec2-user/maven/apache-maven/bin
